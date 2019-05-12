@@ -1,0 +1,7 @@
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.exe.config
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.exe
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\bin\Debug\RomanNumeralsConverter.pdb
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.csprojAssemblyReference.cache
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.csproj.CoreCompileInputs.cache
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.exe
+C:\Users\Erdemm\Desktop\ozkankoc\RomanNumeralsConverter\RomanNumeralsConverter\obj\Debug\RomanNumeralsConverter.pdb
